@@ -1,0 +1,15 @@
+C:\Users\02335504290\Documents\Renilson\bin\Debug\net7.0\Renilson.exe
+C:\Users\02335504290\Documents\Renilson\bin\Debug\net7.0\Renilson.deps.json
+C:\Users\02335504290\Documents\Renilson\bin\Debug\net7.0\Renilson.runtimeconfig.json
+C:\Users\02335504290\Documents\Renilson\bin\Debug\net7.0\Renilson.dll
+C:\Users\02335504290\Documents\Renilson\bin\Debug\net7.0\Renilson.pdb
+C:\Users\02335504290\Documents\Renilson\obj\Debug\net7.0\Renilson.csproj.AssemblyReference.cache
+C:\Users\02335504290\Documents\Renilson\obj\Debug\net7.0\Renilson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\02335504290\Documents\Renilson\obj\Debug\net7.0\Renilson.AssemblyInfoInputs.cache
+C:\Users\02335504290\Documents\Renilson\obj\Debug\net7.0\Renilson.AssemblyInfo.cs
+C:\Users\02335504290\Documents\Renilson\obj\Debug\net7.0\Renilson.csproj.CoreCompileInputs.cache
+C:\Users\02335504290\Documents\Renilson\obj\Debug\net7.0\Renilson.dll
+C:\Users\02335504290\Documents\Renilson\obj\Debug\net7.0\refint\Renilson.dll
+C:\Users\02335504290\Documents\Renilson\obj\Debug\net7.0\Renilson.pdb
+C:\Users\02335504290\Documents\Renilson\obj\Debug\net7.0\Renilson.genruntimeconfig.cache
+C:\Users\02335504290\Documents\Renilson\obj\Debug\net7.0\ref\Renilson.dll
